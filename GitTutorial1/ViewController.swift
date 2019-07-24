@@ -12,8 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-      print("Hello World")
-        print("Tutyorial for git")
+        print("New Button added")
     }
 
 
