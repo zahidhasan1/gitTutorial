@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MapUiViewController.swift
 //  GitTutorial1
 //
 //  Created by ZEUS on 24/7/19.
@@ -8,14 +8,14 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MapUiViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("New Button added")
-        print("Map feature added")
+
+        _ = MapUiViewController()
+        print( " Map Added")
     }
 
 
 }
-
